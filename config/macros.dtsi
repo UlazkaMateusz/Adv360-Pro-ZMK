@@ -1,9 +1,3 @@
-macro_zrob_taska: macro_zrob_taska{
-compatible = "zmk,behavior-macro";
-label = "macro_zrob_taska";
-#binding-cells = <0>;
-bindings = <&kp LS(Z)>, <&kp R>, <&kp RA(O)>, <&kp B>, <&kp SPACE>, <&kp T>, <&kp A>, <&kp S>, <&kp K>, <&kp A>;
-};
 macro_wyslij_emaila: macro_wyslij_emaila{
 compatible = "zmk,behavior-macro";
 label = "macro_wyslij_emaila";
